@@ -1,0 +1,34 @@
+bro, add, Extra OS, 100% working.
+ and fixing deeply. auto 24/7  
+
+os  support , Lxd  , KVM , Qemu  all
+
+no change anything.
+
+os vps creating time ma,
+
+sudo apt install cpu-checker
+ kvm-ok
+ sudo apt update
+ sudo apt install -y qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils virtinst virt-manager
+ sudo systemctl enable --now libvirtd
+ sudo usermod -aG kvm $USER
+ sudo usermod -aG libvirt $USER
+ newgrp libvirt
+ and
+ sudo snap install lxd
+ sudo lxd init
+ sudo usermod -aG lxd $USER
+ newgrp lxd  
+
+
+
+os adding:
+
+Dabien 11 to 13
+
+ok.
+
+100% valid and fixed deeply. A to Z working properly. and sshx by RGNODS™  
+
+nodes language is IN
